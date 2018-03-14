@@ -1,9 +1,0 @@
-body {
-	font-family: 'Roboto', sans-serif;
-}
-.main-header input[type="search"] {
-	margin-right: -40px;
-	width: 200px;
-	padding-right: 50px;
-	box-sizing: border-box;
-}
