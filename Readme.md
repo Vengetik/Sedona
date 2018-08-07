@@ -1,4 +1,4 @@
-# Личный проект «Седона» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
+# Личный учебный проект «Седона» от HTML Academy [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Разработчик: [Никитос Кисель](https://kazan.hh.ru/resume/33627281ff055dcf8a0039ed1f37376970316d).
 
